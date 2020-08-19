@@ -1,0 +1,4 @@
+{
+    "mongoURI":
+      "mongodb+srv://Ruby06:ruby0626@cluster0.grm48.mongodb.net/test?retryWrites=true&w=majority"
+  }
